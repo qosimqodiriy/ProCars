@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Mercedes Bens",
+        "link": "/mercedes-bens",
+        "title": "The iconic marque is full of surprises.",
+        "img": "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/Mercedes%20star%203%20web_0_0.jpg",
+        "description": "Mercedes-Benz makes perhaps the most advanced, luxurious, and performance-oriented automobiles on the planet, and that status is not a fluke. They’ve been pumping out innovative and technologically groundbreaking vehicles since Karl Benz introduced what’s considered the first petrol-powered car"
+    },
+    {
+        "name": "Rolls Royce",
+        "link": "/rolls-royce",
+        "title": "Rolls-Royce's 116-year-old history is filled with ingenuity, innovation and opulence.",
+        "img": "https://mediapool.bmwgroup.com/cache/P9/202107/P90429984/P90429984-rolls-royce-phantom-tempus-collection-spirit-of-ecstasy-600px.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis voluptates sint magni recusandae obcaecati quo enim adipisci maxime debitis doloremque consectetur ut sit vitae dolorem illo accusantium incidunt, totam et quis, iusto expedita nobis eligendi? Quisquam sit obcaecati aut omnis rem aspernatur provident possimus? Neque iste assumenda earum exercitationem repudiandae?"
+    },
+    {
+        "name": "BMW",
+        "link": "/bmw",
+        "title": "Beauty. Seldom seen.",
+        "img": "https://s0.rbk.ru/v6_top_pics/media/img/1/16/755904759776161.jpg",
+        "description": "20 Fun Facts You Didn’t Know About BMW Garrett Parker 4 Years Ago BMW is a well-established brand in the car industry and is possibly the best-known German car manufacturer. It has become synonymous with high-performance vehicles that are sophisticated in appearance and comfortable to drive. While many luxury car brands simply cater"
+    },
+    {
+        "name": "Lamborghini",
+        "link": "/lamborghini",
+        "title": "It takes time to become timeless.",
+        "img": "https://a-static.besthdwallpaper.com/lamborghini-logo-wallpaper-2048x1536-3163_26.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis voluptates sint magni recusandae obcaecati quo enim adipisci maxime debitis doloremque consectetur ut sit vitae dolorem illo accusantium incidunt, totam et quis, iusto expedita nobis eligendi? Quisquam sit obcaecati aut omnis rem aspernatur provident possimus? Neque iste assumenda earum exercitationem repudiandae?"
+    }
+]

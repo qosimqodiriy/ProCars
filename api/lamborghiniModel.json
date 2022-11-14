@@ -1,0 +1,96 @@
+[
+   {
+      "name": "aventador",
+      "lists": [
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/Configurator_Model_choose/2021/07_29_model_chooser/Aventador_ultimae_model_mobile.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/model_chooser/mobile/Aventador_SVJ_Roadster_cc-oro_elios-Leirion_Forged_20_21_Shiny_Black-black_caliper-sceneplate_env.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/model_chooser/mobile/Aventador_SVJ_cc-verde_alceo-Leirion_Forged_20_21_Shiny_Black-red_caliper-sceneplate_env.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/Configurator_Model_choose/2021/07_29_model_chooser/Aventador_Ultimae_rds_model_mobile.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/Configurator_Model_choose/2021/07_29_model_chooser/Aventador_ultimae_model_mobile.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/model_chooser/mobile/Aventador_SVJ_Roadster_cc-oro_elios-Leirion_Forged_20_21_Shiny_Black-black_caliper-sceneplate_env.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/model_chooser/mobile/Aventador_SVJ_cc-verde_alceo-Leirion_Forged_20_21_Shiny_Black-red_caliper-sceneplate_env.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/Configurator_Model_choose/2021/07_29_model_chooser/Aventador_Ultimae_rds_model_mobile.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         }
+      ] 
+   },
+   {
+      "name": "Urus",
+      "lists": [
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/urus/Urus_Pearl_Capsule_cc-verde_mantis-sceneplate_env.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/urus/09_26_graphite_lancio/family_chooser1_m.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/urus/Urus_cc-giallo_auge-Taigete_23_Shiny_Black-black_caliper-sceneplate_env.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/urus/Urus_Pearl_Capsule_cc-verde_mantis-sceneplate_env.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/urus/09_26_graphite_lancio/family_chooser1_m.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         },
+         {
+            "img": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/urus/Urus_cc-giallo_auge-Taigete_23_Shiny_Black-black_caliper-sceneplate_env.png",
+            "title": "Avendator 2021",
+            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum a voluptates, perferendis sapiente dolore ipsa temporibus neque architecto non assumenda.",
+            "price": "999 999$"
+         }
+      ] 
+   }
+]

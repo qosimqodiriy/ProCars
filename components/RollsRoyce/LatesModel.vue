@@ -1,0 +1,25 @@
+<template>
+    <div class="w-full bg-white-primary py-20 md:py-25 lg:py-30 relative">
+        <div class="myContainer">
+            <p class="text-24 md:text-30 lg:text-36 leading-38 font-semibold mb-30 text-black-primary">Rolls Royce so'ngi madellari</p>
+            <div class="grid lg:grid-cols-2 gap-10">
+                <div class="w-full relative border border-black-secondary overflow-hidden">
+                    <video src="@/assets/videos/rolls_1.mp4" autoplay muted loop></video>
+                    <p class="absolute bottom-5% left-4% text-20 md:text-24 lg:text-30 text-white-primary text_shadow font-semibold">Lamborghini Urus 2020</p>
+                </div>
+                <div class="w-full relative border border-black-secondary overflow-hidden">
+                    <video src="@/assets/videos/rolls_2.mp4" autoplay muted loop></video>
+                    <p class="absolute bottom-5% left-4% text-20 md:text-24 lg:text-30 text-white-primary text_shadow font-semibold">Lamborghini Urus 2020</p>
+                </div>
+                <div class="w-full relative border border-black-secondary overflow-hidden">
+                    <video src="@/assets/videos/rolls_3.mp4" autoplay muted loop></video>
+                    <p class="absolute bottom-5% left-4% text-20 md:text-24 lg:text-30 text-white-primary text_shadow font-semibold">Lamborghini Urus 2020</p>
+                </div>
+                <div class="w-full relative border border-black-secondary overflow-hidden">
+                    <video src="@/assets/videos/rolls_4.mp4" autoplay muted loop></video>
+                    <p class="absolute bottom-5% left-4% text-20 md:text-24 lg:text-30 text-white-primary text_shadow font-semibold">Lamborghini Urus 2020</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</template>

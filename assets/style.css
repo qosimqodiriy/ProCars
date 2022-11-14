@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: 'Inter';
+  src: local('Inter'), url('../assets/fonts/Inter.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Kaushan';
+  src: local('Kaushan'), url('../assets/fonts/Kaushan.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: local('Poppins'), url('../assets/fonts/Poppins.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Orbitron';
+  src: local('Orbitron'), url('../assets/fonts/Orbitron.ttf') format('truetype');
+}
+
+
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Inter", "Kaushan", "Poppins", "Orbitron";
+}
+
+.myContainer {
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding: 0 10px !important;
+  max-width: 1400px !important;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: #F4F4F4;
+}
+
+textarea::-webkit-scrollbar {
+  width: 0;
+}
+
+select::-webkit-scrollbar {
+  width: 0;
+}
+
+::-webkit-scrollbar-thumb {
+  width: 7px;
+  border-radius: 7px;
+  background: #ff6a00;
+  border: 1px solid rgba(255, 128, 0, 0.7);
+  margin-right: 5px;
+}
+
+
+select::-ms-expand {
+  display: none;
+}
+
+/* select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url('../assets/images/arrow-down-select.png') no-repeat right center;
+  background-position-x: calc(100% - 10px);
+  background-size: 18px;
+} */
+ 
+/* Styles css */
+
+.text-shadow {
+  text-shadow: 0 0 1px #000000, 0 0 1px #000000;
+}
+
+.text_shadow {
+  text-shadow: 0 0 3px #000000, 0 0 3px #000000;
+}
