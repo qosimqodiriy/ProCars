@@ -3,7 +3,6 @@
       <MainSection 
         :type="2"
         title="BMW M8 Grand Coupe"
-        text="You are deserved to the best"
       />
       <LatesModels />
       <CardSection :type="2" />

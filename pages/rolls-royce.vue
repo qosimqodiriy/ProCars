@@ -3,7 +3,6 @@
       <MainSection 
         :type="4"
         title="Rolls Royce Cullinan"
-        text="You are deserved to the best"
       />
       <LatesModels />
       <CardSection :type="4" />

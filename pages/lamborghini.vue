@@ -3,7 +3,6 @@
       <MainSection 
         :type="1"
         title="Lamborghini VENATUS 2020"
-        text="You are deserved to the best"
       />
       <LatesModels />
       <CardSection :type="1" />

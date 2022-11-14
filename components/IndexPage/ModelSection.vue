@@ -1,7 +1,7 @@
 <template>
     <div class="w-full bg-white-primary py-20 md:py-25 lg:py-30">
         <div class="myContainer">
-            <p class="text-24 md:text-30 lg:text-36 font-orbitron leading-38 font-semibold mb-30 text-black-primary">Biz taqdim etadigan mashinalar</p>
+            <p class="text-24 md:text-30 lg:text-36 font-orbitron leading-38 font-semibold mb-30 text-black-primary">{{ $t('demonstrate') }}</p>
             <div class="flex flex-col gap-20 mb-10 shadow" v-for="(item, index) in models" :key="index">
                 <div class="w-full flex flex-col lg:flex-row border border-black-primary overflow-hidden">
                     <div 

@@ -3,7 +3,6 @@
       <MainSection 
         :type="3"
         title="Mercedes-AMG GT 63 S"
-        text="You are deserved to the best"
       />
       <LatesModels />
       <CardSection :type="3" />
