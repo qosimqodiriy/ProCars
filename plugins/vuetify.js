@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Vuetify from 'vuetify'
 import 'vuetify/dist/vuetify.min.css'
-import 'remixicon/fonts/remixicon.css'
+// import 'remixicon/fonts/remixicon.css'
 
 Vue.use(Vuetify)
 

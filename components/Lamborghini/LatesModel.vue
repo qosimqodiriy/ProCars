@@ -1,7 +1,7 @@
 <template>
     <div class="w-full bg-white-primary py-20 md:py-25 lg:py-30 relative">
         <div class="myContainer">
-            <p class="text-24 md:text-30 lg:text-36 leading-38 font-semibold mb-30 text-black-primary">Lamborghini so'ngi madellari</p>
+            <p class="text-24 md:text-30 lg:text-36 leading-38 font-semibold mb-30 text-black-primary">Lamborghini {{ $t('lastModel') }}</p>
             <div class="grid lg:grid-cols-2 gap-10">
                 <div class="w-full relative border border-black-secondary overflow-hidden">
                     <video src="@/assets/videos/Lamborghini_1.mp4" autoplay muted loop></video>

@@ -74,6 +74,7 @@ export default {
     { src: "@/plugins/aos", mode: "client" },
     { src: "@/plugins/main", mode: "client" },
     { src: "@/plugins/vuetify", mode: "client" },
+    { src: './plugins/vue-awesome-swiper.js', ssr: false }
   ],
 
   components: true,
@@ -99,12 +100,14 @@ export default {
           messages: {
             uz: {
               greeting: 'Hello world!',
+              lastModel: "so'ngi madellari",
               mainText: "Siz eng yaxshisiga loyiqsiz",
               mainTitle: "Tezlik zavqini his eting",
               demonstrate: "Biz taqdim etadigan mashinalar",
             },
             en: {
               greeting: '¡Hola mundo!',
+              lastModel: "the latest models",
               mainText: "You are deserved to the best",
               mainTitle: "Feel the taste of speed",
               demonstrate: "The machines we provide",
